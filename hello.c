@@ -1,6 +1,6 @@
 main()
 {
-    printf("hello world");
+    printf("hello coding world");
     getch();
     printf("\"");
     getch();
